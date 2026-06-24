@@ -28,7 +28,7 @@ stage('Test') {
 
 steps {
 
-echo 'Testing...'
+echo 'Tested...'
 
 }
 
